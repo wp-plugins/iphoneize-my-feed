@@ -3,7 +3,7 @@ Contributors: Ahmet
 Tags: iphone, iphoneize, feed, rss, ipod, touch, iphonize
 Requires at least: 2.5.1
 Tested up to: 2.6.3
-Stable Tag: 0.3
+Stable Tag: 0.2
 
 == Description ==
 
@@ -11,7 +11,7 @@ Iphoneize my Feed helps you to make a iphone compatible feed, you must have no p
 
 = Localization =
 
-* **English** \* Author: [Ahmet Topal](http://basicblogger.de/2008/11/13/wp-plugin-iphoneize-my-feed-05/)
+* **English** \* Author: [Ahmet Topal](http://basicblogger.de/2008/11/12/wp-plugin-iphoneize-my-feed/)
 
 == Installation ==
 
@@ -23,4 +23,4 @@ No questions Jet
 
 == Screenshots ==
 
-Please visit: http://basicblogger.de/2008/11/13/wp-plugin-iphoneize-my-feed-05/
+Please visit: http://basicblogger.de/2008/11/12/wp-plugin-iphoneize-my-feed/
